@@ -1,1 +1,1 @@
-Write a command that finds all empty files and directories in the current directory and all sub-directories
+Write a script that writes into the file ls_cwd_content the result of the command ls -la
